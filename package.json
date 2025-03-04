@@ -1,0 +1,26 @@
+{
+  "name": "xd-adobe-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhagat-dot/xd-adobe-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhagat-dot/xd-adobe-assignment/issues"
+  },
+  "homepage": "https://github.com/bhagat-dot/xd-adobe-assignment#readme",
+  "devDependencies": {
+    "esm-loader-css": "^1.0.6",
+    "parcel": "^2.13.3"
+  }
+}
